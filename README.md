@@ -1,9 +1,10 @@
 I regret every line of code that I write :)
-# Let's create something amazing together!
-
-
-
-[![me](https://gitmystat.vercel.app/recent?username=root-daemon&theme=gold)](https://github.com/root-daemon)
+<a href="https://github.com/root-daemon">
+            <img width="273" src="https://gitmystat.vercel.app/user?username=root-daemon&theme=gold"></img>
+          </a>
+          <a href="https://github.com/Rahuletto?tab=repositories">
+            <img src="https://gitmystat.vercel.app/top?username=root-daemon&theme=gold&layout=bar"></img>
+          </a>
 
 <!--
 **root-daemon/root-daemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
