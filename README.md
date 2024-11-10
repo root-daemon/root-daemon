@@ -1,4 +1,9 @@
-## Hi there 👋
+I regret every line of code that I write :)
+# Let's create something amazing together!
+
+
+
+[![me](https://gitmystat.vercel.app/recent?username=root-daemon&theme=gold)](https://github.com/root-daemon)
 
 <!--
 **root-daemon/root-daemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
