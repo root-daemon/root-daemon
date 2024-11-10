@@ -1,10 +1,13 @@
 I regret every line of code that I write :)
+<div>
 <a href="https://github.com/root-daemon">
             <img width="273" src="https://gitmystat.vercel.app/user?username=root-daemon&theme=gold"></img>
           </a>
           <a href="https://github.com/Rahuletto?tab=repositories">
             <img src="https://gitmystat.vercel.app/top?username=root-daemon&theme=gold&layout=bar"></img>
-          </a>
+</a>
+            
+</div>
 
 <!--
 **root-daemon/root-daemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
