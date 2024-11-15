@@ -1,4 +1,6 @@
-I regret every line of code that I write :)
+_I regret every line of code that I write :)_ - one wise man (jk i ain't wise)
+---
+
 <div>
 <a href="https://github.com/root-daemon">
             <img width="273" src="https://gitmystat.vercel.app/user?username=root-daemon&theme=gold"></img>
