@@ -2,12 +2,7 @@ _I regret every line of code that I write :)_ - one wise man (jk i ain't wise)
 ---
 
 <div>
-<a href="https://github.com/root-daemon">
-            <img width="273" src="https://gitmystat.vercel.app/user?username=root-daemon&theme=gold"></img>
-          </a>
-          <a href="https://github.com/Rahuletto?tab=repositories">
-            <img src="https://gitmystat.vercel.app/top?username=root-daemon&theme=gold&layout=bar"></img>
-</a>
+
             
 </div>
 
