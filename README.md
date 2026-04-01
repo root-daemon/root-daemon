@@ -1,19 +1,6 @@
 _I regret every line of code that I write :)_ - one wise man (jk i ain't wise)
 ---
 
-<div>
-<div align='left'>
-<a href="https://github.com/root-daemon">
-            <img width="273" src="https://gitmystat.vercel.app/user?theme=gold&username=root-daemon&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265"></img>
-          </a>
-          <a href="https://github.com/Rahuletto?tab=repositories">
-            <img src="https://gitmystat.vercel.app/top?username=root-daemon&theme=gold&layout=bar&color=0xEBE9E1&accent=0xebe9e185&background=0x0C0C0C&tip=0xFF6265"></img>
-          </a>
-</div>
-
-            
-</div>
-
 <!--
 **root-daemon/root-daemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
